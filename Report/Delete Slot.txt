@@ -1,0 +1,15 @@
+Check Slots
+title Delete Slot
+
+participant Server#LightGreen
+participant Server Operating System#LightGreen
+database Database#LightBlue
+
+Server ->Server Operating System:Get time
+Server Operating System -->>Server:Return time
+
+note right of Server#LightPink:Server checks daily if a reserved slot\ntime has passed 
+Server ->Server:Check Slots
+note over Server,Database#LightPink:Server updates the database by freeing the reserved\n                           slot which has passed
+Server ->>Database:Update database
+

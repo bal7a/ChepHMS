@@ -1,0 +1,26 @@
+title Get Halls Data
+actor User#fff
+participant App#LightGreen
+participant Network Controller#LightGreen
+participant Server#LightGreen
+database Database#LightBlue
+
+//Arrows 
+User->App:Open App
+note over User,App#LightPink:User opens the application
+App ->Network Controller: Get Halls
+note over App,Network Controller#LightPink:App Starts a Request to get the halls' data
+Network Controller ->Server:GET Request:Hall
+note over Network Controller,Server#LightPink:Netwrok controller sends an HTTP GET \nrequest with the requested hall number
+
+Server ->Database:Get halls data 
+note over Database,Server#LightPink:Database searches for the \nspecific hall requested by server\nand returns it
+Database -->>Server:Return data
+
+Server -->>Network Controller:Return Data
+note over Server,Network Controller#LightPink:Server reads data from database and\nreturns the data to client as a JSON file
+Network Controller -->>App:Return Structured Data
+note over App,Network Controller#LightPink:Network Controller parses the json file\nand returns it as raw data for App
+
+
+
