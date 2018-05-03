@@ -1,0 +1,23 @@
+title Login As Adminstrator
+actor User#fff
+participant App#lightgreen
+participant Network Controller#lightgreen 
+participant Server#lightgreen
+database Database#lightblue
+User ->App: Enters ID
+note over User,App#lightpink: User Enters ADMIN ID If he is an\n Admin to get admin privileges
+App ->Network Controller: Sends ID
+note over App,Network Controller#lightpink:App Controller sends the ID to the\nnetwork controller to check if it is valid
+Network Controller ->Server: Sends ID
+note over Network Controller,Server#lightpink:Network controller to server :Network controller\nsends an HTTP GET request with \nthe requested hall number
+Server ->Database:Get Right ID
+note over Server,Database#lightpink:Gets The Right ID\n from Database
+Database -->Server:Return ID
+note over Database,Server#lightpink:returns ID \nfrom Database
+Server -->Network Controller:returns response
+note over Server, Network Controller#lightpink:Server to Network controller : \nServer reads data from database and \nreturns data to client as a JSON file\n
+Network Controller -->App: returns response
+note over Network Controller,App#lightpink:returns whether the ID is \nright or false
+
+App -->User:returns response
+note over User,App#lightpink : Success Or Fail

@@ -1,0 +1,17 @@
+title Complaint
+actor User#fff
+participant App#lightgreen
+participant Android OS#lightgreen
+participant Default Mailing App#lightgreen
+User -> App: Sends A Complaint Action
+note over User,App#lightpink: Presses Complaint Button
+App ->Android OS: Request To Start Mailng Default App
+note over App,Android OS#lightpink: Sends a request to The OS\nto start the mailing app
+Android OS ->Default Mailing App: Starts Mailing App
+note over Android OS, Default Mailing App#lightpink:Starts App
+App ->Default Mailing App: Sets Receipent Email Address
+note over App,Default Mailing App#lightpink: Sets the To: Field to the Developers' mailing address
+User ->Default Mailing App: Writes A Compaint
+note over User,Default Mailing App#lightpink: writing the content of the complaint
+User ->Default Mailing App: Sends the Complaint
+note over User,Default Mailing App#lightpink: Presses the "Send" Button
