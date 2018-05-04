@@ -1,9 +1,9 @@
-Testing of the app shall be done through several steps. 
+Testing of the app was done through several steps. 
 
-First, GUI testing is going to be done to make sure that the graphics and Font position are convenient for users. This will be done by installing the GUI on several Android devices with different screen sizes and resolutions and tinkering with the interface to make sure that it is optimal for all the users.
+First, GUI testing was done to make sure that the graphics and Font position are convenient for users. This was done by installing the GUI on several Android devices with different screen sizes and resolutions and tinkering with the interface to make sure that it is optimal for all the users. We tested every button and checked the place of every single label seperately. The transitions between activities and the data transferred between activities were then asserted with the expected results.
 
-After that, server latency and daily up-time will be tested. These parameters shall be tested by flooding the server with HTTP requests for several days from different devices to get familiar with its maximum load and try to edit the server code and app code to make the user experience smooth and make sure that the server's availability is as close to 24/7 as possible. 
+After that, server latency and daily up-time were tested. These parameters were tested by flooding the server with HTTP requests for several days from different devices to get familiar with its maximum load and try to edit the server code and app code to make the user experience smooth and make sure that the server's availability is as close to 24/7 as possible. Syncing the app database with the server database was tested over and over again by requesting specific days and all days. Editing the online database was tested by editing several slots, checking the new JSON data that should be sent to the online server to be certain that it is compatible with the online database.
 
-Next, the Search feature should be tested by trying all possible search cases and extremes then comparing the results with the already prepared correct results. 
+Next, the Search feature was tested by trying all possible search cases and extremes then comparing the results with the already prepared correct results. Searches were made by day. Then, the slot and hall criteria was tested to test the entire search logic used. The search results were validated by comparing them with the wanted results.
 
-Last, but not least, the interaction between the app's inner classes will be tested by making different search queries on different days and at random times to make sure that everything fits perfectly.
+Last, but not least, the interaction between the app's inner classes was tested by making different search queries on different days and at random times to be sure that everything fits perfectly and to prove the class relation (Day -> Hall -> Slot) used.
