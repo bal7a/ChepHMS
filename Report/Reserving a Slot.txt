@@ -1,0 +1,30 @@
+title Reserving a Slot
+
+actor User#Black
+participant App#LightGreen
+participant Network Controller#LightGreen
+participant Server#LightGreen
+database Database#LightBlue
+
+User->App:Requests the free halls in a specific slot
+note over User, App#LightPink:Requests a list of all\nthe halls that are considered \nvacant at a specific slot
+App-->>User:Returns all available slots
+note over App, User#LightPink:Returns all slots that meet \nthe criteria specified earlier
+User->App:Chooses a slot for reservation
+note over User, App#LightPink:The user chooses the\ndesired slot for reservation
+User->App:Enters reservation details 
+note over User, App#LightPink:(CourseName, Type, Number of weeks)
+App->Network Controller:App sends the updated DayFile to\nthe Network Controller
+note over App, Network Controller#LightPink:App updates the DayFile then sends\nit to the NetworkController
+Network Controller->Server:Sends DayFile
+note over Network Controller, Server #LightPink:The Network Controller \nsends the updated DayFile \nto the Server
+Server->Database:Updates Database
+note over Server, Database#LightPink:The Server interprets\nthe new DayFile and\nupdates the Database
+Database-->>Server:Returns state of\nthe update request
+note over Database, Server#LightPink:Returns whether the update\nwas successful or not
+Server-->>Network Controller:Returns state of\nthe update request
+note over Network Controller, Server#LightPink:Returns whether the update\nwas successful or not
+Network Controller-->>App:Passes state of\nthe update request
+note over Network Controller, App#LightPink:Returns whether the update\nwas successful or not
+App-->>User:Shows state of\nthe update request
+note over User, App#LightPink:Displays a message to the user updating\nthem on whether the update was successful or not

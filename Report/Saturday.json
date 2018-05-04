@@ -1,0 +1,1324 @@
+{
+	"halls": {
+		"hall": [
+			{
+				"hallName": "911",
+				"slots": [
+				    {
+				        "slot" : "1",
+						"isEmpty" : "true",
+						"courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "2",
+						"isEmpty" : "true",
+				        "courseNumber" : ""				        
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "3",
+						"isEmpty" : "true",
+				        "courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "4",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "5",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        
+				    },
+				    {
+				        "slot" : "6",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    },
+				    {
+				        "slot" : "7",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    }
+				    ]
+			},
+			{
+				"hallName": "911A",
+				"slots": [
+				    {
+				        "slot" : "1",
+						"isEmpty" : "true",
+						"courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "2",
+						"isEmpty" : "true",
+				        "courseNumber" : ""				        
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "3",
+						"isEmpty" : "true",
+				        "courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "4",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "5",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        
+				    },
+				    {
+				        "slot" : "6",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    },
+				    {
+				        "slot" : "7",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    }
+				    ]
+			},
+			{
+				"hallName": "912",
+				"slots": [
+				    {
+				        "slot" : "1",
+						"isEmpty" : "true",
+						"courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "2",
+						"isEmpty" : "true",
+				        "courseNumber" : ""				        
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "3",
+						"isEmpty" : "true",
+				        "courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "4",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "5",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        
+				    },
+				    {
+				        "slot" : "6",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    },
+				    {
+				        "slot" : "7",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    }
+				    ]
+			},
+			{
+				"hallName": "913",
+				"slots": [
+				    {
+				        "slot" : "1",
+						"isEmpty" : "true",
+						"courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "2",
+						"isEmpty" : "true",
+				        "courseNumber" : ""				        
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "3",
+						"isEmpty" : "true",
+				        "courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "4",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "5",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        
+				    },
+				    {
+				        "slot" : "6",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    },
+				    {
+				        "slot" : "7",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    }
+				    ]
+			},
+			{
+				"hallName": "914",
+				"slots": [
+				    {
+				        "slot" : "1",
+						"isEmpty" : "true",
+						"courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "2",
+						"isEmpty" : "true",
+				        "courseNumber" : ""				        
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "3",
+						"isEmpty" : "true",
+				        "courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "4",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "5",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        
+				    },
+				    {
+				        "slot" : "6",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    },
+				    {
+				        "slot" : "7",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    }
+				    ]
+			},
+			{
+				"hallName": "914A",
+				"slots": [
+				    {
+				        "slot" : "1",
+						"isEmpty" : "true",
+						"courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "2",
+						"isEmpty" : "true",
+				        "courseNumber" : ""				        
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "3",
+						"isEmpty" : "true",
+				        "courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "4",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "5",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        
+				    },
+				    {
+				        "slot" : "6",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    },
+				    {
+				        "slot" : "7",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    }
+				    ]
+			},
+			{
+				"hallName": "921",
+				"slots": [
+				    {
+				        "slot" : "1",
+						"isEmpty" : "true",
+						"courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "2",
+						"isEmpty" : "true",
+				        "courseNumber" : ""				        
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "3",
+						"isEmpty" : "true",
+				        "courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "4",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "5",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        
+				    },
+				    {
+				        "slot" : "6",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    },
+				    {
+				        "slot" : "7",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    }
+				    ]
+			},
+			{
+				"hallName": "922",
+				"slots": [
+				    {
+				        "slot" : "1",
+						"isEmpty" : "true",
+						"courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "2",
+						"isEmpty" : "true",
+				        "courseNumber" : ""				        
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "3",
+						"isEmpty" : "true",
+				        "courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "4",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "5",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        
+				    },
+				    {
+				        "slot" : "6",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    },
+				    {
+				        "slot" : "7",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    }
+				    ]
+			},
+			{
+				"hallName": "923",
+				"slots": [
+				    {
+				        "slot" : "1",
+						"isEmpty" : "true",
+						"courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "2",
+						"isEmpty" : "true",
+				        "courseNumber" : ""				        
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "3",
+						"isEmpty" : "true",
+				        "courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "4",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "5",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        
+				    },
+				    {
+				        "slot" : "6",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    },
+				    {
+				        "slot" : "7",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    }
+				    ]
+			},
+			{
+				"hallName": "921A",
+				"slots": [
+				    {
+				        "slot" : "1",
+						"isEmpty" : "true",
+						"courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "2",
+						"isEmpty" : "true",
+				        "courseNumber" : ""				        
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "3",
+						"isEmpty" : "true",
+				        "courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "4",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "5",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        
+				    },
+				    {
+				        "slot" : "6",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    },
+				    {
+				        "slot" : "7",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    }
+				    ]
+			},
+			{
+				"hallName": "924",
+				"slots": [
+				    {
+				        "slot" : "1",
+						"isEmpty" : "true",
+						"courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "2",
+						"isEmpty" : "true",
+				        "courseNumber" : ""				        
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "3",
+						"isEmpty" : "true",
+				        "courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "4",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "5",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        
+				    },
+				    {
+				        "slot" : "6",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    },
+				    {
+				        "slot" : "7",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    }
+				    ]
+			},
+			{
+				"hallName": "924A",
+				"slots": [
+				    {
+				        "slot" : "1",
+						"isEmpty" : "true",
+						"courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "2",
+						"isEmpty" : "true",
+				        "courseNumber" : ""				        
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "3",
+						"isEmpty" : "true",
+				        "courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "4",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "5",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        
+				    },
+				    {
+				        "slot" : "6",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    },
+				    {
+				        "slot" : "7",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    }
+				    ]
+			},
+			{
+				"hallName": "931",
+				"slots": [
+				    {
+				        "slot" : "1",
+						"isEmpty" : "true",
+						"courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "2",
+						"isEmpty" : "true",
+				        "courseNumber" : ""				        
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "3",
+						"isEmpty" : "true",
+				        "courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "4",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "5",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        
+				    },
+				    {
+				        "slot" : "6",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    },
+				    {
+				        "slot" : "7",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    }
+				    ]
+			},
+			{
+				"hallName": "931A",
+				"slots": [
+				    {
+				        "slot" : "1",
+						"isEmpty" : "true",
+						"courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "2",
+						"isEmpty" : "true",
+				        "courseNumber" : ""				        
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "3",
+						"isEmpty" : "true",
+				        "courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "4",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "5",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        
+				    },
+				    {
+				        "slot" : "6",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    },
+				    {
+				        "slot" : "7",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    }
+				    ]
+			},
+			{
+				"hallName": "932",
+				"slots": [
+				    {
+				        "slot" : "1",
+						"isEmpty" : "true",
+						"courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "2",
+						"isEmpty" : "true",
+				        "courseNumber" : ""				        
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "3",
+						"isEmpty" : "true",
+				        "courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "4",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "5",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        
+				    },
+				    {
+				        "slot" : "6",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    },
+				    {
+				        "slot" : "7",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    }
+				    ]
+			},
+			{
+				"hallName": "933",
+				"slots": [
+				    {
+				        "slot" : "1",
+						"isEmpty" : "true",
+						"courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "2",
+						"isEmpty" : "true",
+				        "courseNumber" : ""				        
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "3",
+						"isEmpty" : "true",
+				        "courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "4",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "5",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        
+				    },
+				    {
+				        "slot" : "6",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    },
+				    {
+				        "slot" : "7",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    }
+				    ]
+			},
+			{
+				"hallName": "941",
+				"slots": [
+				    {
+				        "slot" : "1",
+						"isEmpty" : "true",
+						"courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "2",
+						"isEmpty" : "true",
+				        "courseNumber" : ""				        
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "3",
+						"isEmpty" : "true",
+				        "courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "4",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "5",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        
+				    },
+				    {
+				        "slot" : "6",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    },
+				    {
+				        "slot" : "7",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    }
+				    ]
+			},
+			{
+				"hallName": "941A",
+				"slots": [
+				    {
+				        "slot" : "1",
+						"isEmpty" : "true",
+						"courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "2",
+						"isEmpty" : "true",
+				        "courseNumber" : ""				        
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "3",
+						"isEmpty" : "true",
+				        "courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "4",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "5",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        
+				    },
+				    {
+				        "slot" : "6",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    },
+				    {
+				        "slot" : "7",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    }
+				    ]
+			},
+			{
+				"hallName": "942",
+				"slots": [
+				    {
+				        "slot" : "1",
+						"isEmpty" : "true",
+						"courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "2",
+						"isEmpty" : "true",
+				        "courseNumber" : ""				        
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "3",
+						"isEmpty" : "true",
+				        "courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "4",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "5",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        
+				    },
+				    {
+				        "slot" : "6",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    },
+				    {
+				        "slot" : "7",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    }
+				    ]
+			},
+			{
+				"hallName": "943",
+				"slots": [
+				    {
+				        "slot" : "1",
+						"isEmpty" : "true",
+						"courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "2",
+						"isEmpty" : "true",
+				        "courseNumber" : ""				        
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "3",
+						"isEmpty" : "true",
+				        "courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "4",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "5",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        
+				    },
+				    {
+				        "slot" : "6",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    },
+				    {
+				        "slot" : "7",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    }
+				    ]
+			},
+			{
+				"hallName": "944",
+				"slots": [
+				    {
+				        "slot" : "1",
+						"isEmpty" : "true",
+						"courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "2",
+						"isEmpty" : "true",
+				        "courseNumber" : ""				        
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "3",
+						"isEmpty" : "true",
+				        "courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "4",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "5",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        
+				    },
+				    {
+				        "slot" : "6",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    },
+				    {
+				        "slot" : "7",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    }
+				    ]
+			},
+			{
+				"hallName": "944A",
+				"slots": [
+				    {
+				        "slot" : "1",
+						"isEmpty" : "true",
+						"courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "2",
+						"isEmpty" : "true",
+				        "courseNumber" : ""				        
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "3",
+						"isEmpty" : "true",
+				        "courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "4",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "5",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        
+				    },
+				    {
+				        "slot" : "6",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    },
+				    {
+				        "slot" : "7",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    }
+				    ]
+			},
+			{
+				"hallName": "901",
+				"slots": [
+				    {
+				        "slot" : "1",
+						"isEmpty" : "true",
+						"courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "2",
+						"isEmpty" : "true",
+				        "courseNumber" : ""				        
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "3",
+						"isEmpty" : "true",
+				        "courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "4",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "5",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        
+				    },
+				    {
+				        "slot" : "6",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    },
+				    {
+				        "slot" : "7",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    }
+				    ]
+			},
+			{
+				"hallName": "901A",
+				"slots": [
+				    {
+				        "slot" : "1",
+						"isEmpty" : "true",
+						"courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "2",
+						"isEmpty" : "true",
+				        "courseNumber" : ""				        
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "3",
+						"isEmpty" : "true",
+				        "courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "4",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "5",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        
+				    },
+				    {
+				        "slot" : "6",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    },
+				    {
+				        "slot" : "7",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    }
+				    ]
+			},
+			{
+				"hallName": "902",
+				"slots": [
+				    {
+				        "slot" : "1",
+						"isEmpty" : "true",
+						"courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "2",
+						"isEmpty" : "true",
+				        "courseNumber" : ""				        
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "3",
+						"isEmpty" : "true",
+				        "courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "4",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "5",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        
+				    },
+				    {
+				        "slot" : "6",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    },
+				    {
+				        "slot" : "7",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    }
+				    ]
+			},
+			{
+				"hallName": "902A",
+				"slots": [
+				    {
+				        "slot" : "1",
+						"isEmpty" : "true",
+						"courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "2",
+						"isEmpty" : "true",
+				        "courseNumber" : ""				        
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "3",
+						"isEmpty" : "true",
+				        "courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "4",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "5",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        
+				    },
+				    {
+				        "slot" : "6",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    },
+				    {
+				        "slot" : "7",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    }
+				    ]
+			},
+			{
+				"hallName": "902B",
+				"slots": [
+				    {
+				        "slot" : "1",
+						"isEmpty" : "true",
+						"courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "2",
+						"isEmpty" : "true",
+				        "courseNumber" : ""				        
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "3",
+						"isEmpty" : "true",
+				        "courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "4",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "5",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        
+				    },
+				    {
+				        "slot" : "6",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    },
+				    {
+				        "slot" : "7",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    }
+				    ]
+			},
+			{
+				"hallName": "904",
+				"slots": [
+				    {
+				        "slot" : "1",
+						"isEmpty" : "true",
+						"courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "2",
+						"isEmpty" : "true",
+				        "courseNumber" : ""				        
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "3",
+						"isEmpty" : "true",
+				        "courseNumber" : ""
+						,"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "4",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"
+				    },
+				    {
+				        "slot" : "5",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        
+				    },
+				    {
+				        "slot" : "6",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    },
+				    {
+				        "slot" : "7",
+						"isEmpty" : "true",
+				        "courseNumber" : "",
+						"Lecture" : "true"		        			        
+				    }
+				    ]
+			}
+
+				    ]
+				
+	}
+}

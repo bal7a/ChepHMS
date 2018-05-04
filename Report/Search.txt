@@ -1,0 +1,14 @@
+title Search
+actor User#Black
+participant App#LightGreen
+
+User->App:Search Button
+note over User, App#LightPink:The user presses the search button\n to initiate a search process
+App-->>User:Search details window
+note over App, User#LightPink:The App shows a window where the user enters\nthe criteria for the new search.
+User->App:User enters details
+note over App,User#LightPink:The User enters all the filters he wants for \ntheir search
+App->App:App searches
+note over App #LightPink:The App goes through all the data\nthat it has and comes up with a \nlist fo all the results
+App-->>User:List
+note over App,User#LightPink:The app returns a list with the query that meets \nthe conditions specified earlier by the user
