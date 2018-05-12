@@ -1,5 +1,9 @@
 package com.ziizii.hallmanagementsystem;
 
+import com.ziizii.hallmanagementsystem.DataBaseManager.Day;
+import com.ziizii.hallmanagementsystem.DataBaseManager.Hall;
+import com.ziizii.hallmanagementsystem.DataBaseManager.Slot;
+
 import java.util.ArrayList;
 
 public class Search {

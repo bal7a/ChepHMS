@@ -10,9 +10,21 @@ public class Hall
         this.hallName = hallName;
     }
 
+    public Hall(){}
+
+    public String getHallName()
+    {
+        return hallName;
+    }
+
     public Slot[] getSlots()
     {
         return slots;
+    }
+
+    public void setHallName(String hallName)
+    {
+        this.hallName = hallName;
     }
 
     public void setSlots(Slot[] slots)

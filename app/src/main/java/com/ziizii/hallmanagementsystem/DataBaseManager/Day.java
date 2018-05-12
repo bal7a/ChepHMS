@@ -11,9 +11,16 @@ public class Day
         this.dayName = dayName;
     }
 
+    public Day(){}
+
     public Hall[] getHalls()
     {
         return halls;
+    }
+
+    public void setDayName(String dayName)
+    {
+        this.dayName = dayName;
     }
 
     public void setHalls(Hall[] halls)
