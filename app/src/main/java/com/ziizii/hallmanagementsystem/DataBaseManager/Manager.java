@@ -3,6 +3,8 @@ package com.ziizii.hallmanagementsystem.DataBaseManager;
 import android.os.AsyncTask;
 import android.util.Log;
 
+import com.ziizii.hallmanagementsystem.Search;
+
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -82,7 +84,7 @@ public class Manager extends AsyncTask<String, Integer, Void>
     }
 
 
-    static Day[] getDayData()
+    public static Day[] getDayData()
     {
         return days;
     }
@@ -109,9 +111,11 @@ public class Manager extends AsyncTask<String, Integer, Void>
                     data = inputStreamReader.read();
                 }
                 connection.disconnect();
-                Log.i("GET", downloadedJSON);
-//                days[i] = deJsonDay(new JSONObject(downloadedJSON).getJSONObject("halls"));
+                Log.i("GET", String.valueOf(i));
+                days[i] = deJsonDay(new JSONObject(downloadedJSON).getJSONObject("halls"));
+
             }
+            Search.setDays(days);
 
         } catch (Exception e) {
             e.printStackTrace();

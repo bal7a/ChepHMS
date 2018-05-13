@@ -7,7 +7,7 @@ import com.ziizii.hallmanagementsystem.DataBaseManager.Slot;
 import java.util.ArrayList;
 
 public class Search {
-    static Day[] days = new Day[6];
+    static Day[] days = new Day[7];
     static ArrayList<Hall> emptyHalls = new ArrayList<>();
     static ArrayList<Slot> emptySlots = new ArrayList<>();
     static ArrayList<Day> emptyDays = new ArrayList<>();
@@ -18,10 +18,18 @@ public class Search {
         Search.days = days;
     }
 
-    public static void searchByDay(Day day) {
+    public static void test(){
+        Day day = new Day("Saturday");
+        day.setHall(0,new Hall("914<3"));
+        day.getHalls()[0].setSlot(0,new Slot(0,true,"CSE129",true));
+        days[0]=day;
+
+    }
+
+    public static void searchByDay(int  dayNo) {
         ArrayList<Hall> halls = new ArrayList<>();
         ArrayList<Slot> slots = new ArrayList<>();
-        for (Hall hall : day.getHalls()) {
+        for (Hall hall : days[dayNo].getHalls()) {
             for (Slot slot : hall.getSlots()) {
                 if (slot.isEmpty()) {
                     slots.add(slot);
@@ -33,13 +41,13 @@ public class Search {
         setEmptyHalls(halls);
     }
 
-    public static void searchBySlot(Slot slot) {
+    public static void searchBySlot(int slotNo) {
         ArrayList<Hall> halls = new ArrayList<>();
         ArrayList<Day> days = new ArrayList<>();
 
         for (Day day : days) {
             for (Hall hall : day.getHalls()) {
-                if (hall.getSlots()[slot.getSlotPosition() + 1].isEmpty()) {
+                if (hall.getSlots()[slotNo].isEmpty()) {
                     halls.add(hall);
                     days.add(day);
                 }
@@ -49,29 +57,39 @@ public class Search {
         setEmptyDays(days);
     }
 
-    public static void searchByDayAndSlot(Day day,Slot slot) {
+    public static void searchByDayAndSlot(int dayNo,int slotNo) {
         ArrayList<Hall> halls = new ArrayList<>();
+        ArrayList<Slot> slots = new ArrayList<>();
 
-        for (Hall hall : day.getHalls()) {
-            if (hall.getSlots()[slot.getSlotPosition() + 1].isEmpty()) {
+        for (Hall hall : days[0].getHalls()) {
+            if (hall.getSlots()[slotNo].isEmpty()) {
                 halls.add(hall);
+                slots.add(hall.getSlots()[slotNo]);
+
             }
         }
+        setEmptySlots(slots);
         setEmptyHalls(halls);
     }
 
     public static void searchByCourse(String courseCode) {
         ArrayList<Slot> slots = new ArrayList<>();
+        ArrayList<Hall> halls = new ArrayList<>();
+
 
         for (Day day : days) {
+            if(day==null)
+                continue;
             for (Hall hall : day.getHalls()) {
                 for (Slot slot: hall.getSlots()){
                     if(slot.getCourseCode().equals(courseCode)){
                         slots.add(slot);
+                        halls.add(hall);
                     }
                 }
             }
         }
+        setEmptyHalls(halls);
         setCourseSlots(slots);
     }
 
